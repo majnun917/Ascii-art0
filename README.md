@@ -10,6 +10,7 @@ To use the program, follow these steps:
 ```console
 git clone <repository-URL>
 cd <repository-name>
+```
 - Open your terminal.  
 - Run the following command:  
 ```console
