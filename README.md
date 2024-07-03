@@ -5,7 +5,11 @@ It handles input with numbers, letters, spaces, special characters, and newline 
 Check [standard.txt](standard.txt) file for the used ASCII art representations.  
 
 ## Usage
-To use the program, follow these steps:  
+To use the program, follow these steps: 
+- Clone the repository:
+```console
+git clone <repository-URL>
+cd <repository-name>
 - Open your terminal.  
 - Run the following command:  
 ```console
