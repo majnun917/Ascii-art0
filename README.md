@@ -2,7 +2,7 @@
 ASCII art is a form of drawing that uses characters from [the ASCII standard](#about-ascii-standard) to create designs.  
 This Go program takes a string as an argument and outputs it in a the form of ASCII art.  
 It handles input with numbers, letters, spaces, special characters, and newline characters.  
-Check [standard.txt](.idea/standard.txt) file for the used ASCII art representations.  
+Check [standard.txt](standard.txt) file for the used ASCII art representations.  
 
 ## Usage
 To use the program, follow these steps:  
